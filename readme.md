@@ -4,6 +4,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Join chat](https://img.shields.io/badge/Mattermost-join_chat-brightgreen.svg)](https://chat.mycroft.ai/community/channels/languages)
 
+##
+### ENGAGIDO SOPORTE EN GALEGO. Correccións realizadas sobre a traducción de David Rebolo Magariños (https://github.com/Davidrebolomaga/lingua-franca)
+##
+
+
 # Lingua Franca
 
 Mycroft's multilingual text parsing and formatting library
